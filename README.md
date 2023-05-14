@@ -1,2 +1,2 @@
 # from-scratch
-A hands-on exploration of neural networks, In this repo, I dive into the fundamentals of their design and implementation to foster a deeper understanding of the underlying concepts.
+This repository features a diverse range of neural network models and their implementations in both Python and Julia languages. The goal is to delve into the creation of neural networks from scratch, gaining a more profound understanding of their inner workings and design principles. For basic neural networks, I will implement them using solely linear algebra, utilizing NumPy for the Python implementations. As for more complex models, I will employ PyTorch 2.x for Python and Flux.jl for Julia to streamline the development process.
